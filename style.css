@@ -1,0 +1,74 @@
+
+h1 {
+  font-family: avenir, sans-serif;
+    max-width: 800px;
+    margin-top: 50px;
+    font-size: 25pt;
+    font-weight: bold;
+    line-height: 1.4;
+    letter-spacing: normal;
+    color: black;
+}
+
+.Logo {
+  font-family: Avenir, sans-serif;
+    color: White;
+    width: 150px;
+    height: 150px;
+    font-size: 16pt;
+    display: inline-block; 
+    padding:10px;
+    background: #7D7D7D;
+}
+h2 {
+  font-family: Noto Sans TC, sans-serif;
+    max-width: 800px;
+    margin-top: 50px;
+    font-size: 28pt;
+    font-weight: bold;
+    line-height: 1.4;
+    letter-spacing: normal;
+    color: black;
+}
+
+.lgrey { 
+  font-family: Noto Sans TC, sans-serif;
+  color: White;
+    width: 150px;
+    height: 150px;
+  font-size: 20pt;
+    display: inline-block; 
+    padding:15px;
+    background: #7D7D7D;
+}
+.black {
+  font-family: Noto Sans TC, sans-serif;
+    color: White;
+    width: 150px;
+    height: 150px;
+  font-size: 20pt;
+    display: inline-block; 
+    padding:15px;
+    background: #1C1C1C;
+}
+
+.dgrey {
+    font-family: Noto Sans TC, sans-serif;
+  color: White;
+    width: 150px;
+    height: 150px;
+  font-size: 20pt;
+    display: inline-block; 
+    padding:15px;
+    background: #505050;
+}
+.orange {
+  font-family: Noto Sans TC, sans-serif;
+    color: White;
+    width: 150px;
+    height: 150px;
+  font-size: 20pt;
+    display: inline-block; 
+    padding:15px;
+    background: #FF9500;
+}
