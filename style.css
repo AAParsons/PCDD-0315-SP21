@@ -72,8 +72,27 @@ h2 {
     padding:15px;
     background: #FF9500;
 }
+.red {
+  font-family: Noto Sans TC, sans-serif;
+    color: White;
+    width: 150px;
+    height: 150px;
+  font-size: 20pt;
+    display: inline-block; 
+    padding:15px;
+    background: #FF0000;
+}
 
-
+.blue {
+  font-family: Noto Sans TC, sans-serif;
+    color: White;
+    width: 150px;
+    height: 150px;
+  font-size: 20pt;
+    display: inline-block; 
+    padding:15px;
+    background: #0000FF;
+}
 
 
 
